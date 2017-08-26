@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1503758508 source:e:\tu delft\thesis pj\routeswaps\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<sys/time.h>
+	"../handleVariables.c"
+	"../getDecomposition.c"
+	"../routeSimple.c"
+
+1503758546 e:\tu delft\thesis pj\getdecomposition.c
+	<limits.h>
+	<math.h>
+
+1503081758 e:\tu delft\thesis pj\printvariables.c
+
+1503753172 e:\tu delft\thesis pj\handlevariables.c
+	<limits.h>
+	<math.h>
+
+1503756284 e:\tu delft\thesis pj\simplesort.c
+
+1503758524 e:\tu delft\thesis pj\routesimple.c
+
